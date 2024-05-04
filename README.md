@@ -1,6 +1,6 @@
 ### Hi there I'm Bilal a Full-Stack Developer 👋
 
-- 🌱 I’m currently Working with Laravel & React
+- 🌱 I’m currently working in Asp.net & Next
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: bilaldadi963@gmail.com
 - ⚡ Facts about me :
